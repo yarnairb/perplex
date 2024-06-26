@@ -2,6 +2,7 @@
 # Perplex
 
 A Movie Renamer for Plex Metadata
+Modified to run under WSL with a Windows Plex server
 
 ## Overview
 
