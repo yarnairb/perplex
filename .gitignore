@@ -1,4 +1,5 @@
 .idea
 plex
+plex_account.ini
 *.gz
 *.db
